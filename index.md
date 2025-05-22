@@ -7,3 +7,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# My Tasks
+- [x] Learn Markdown
+- [ ] Finish course
+- [ ] Do tests
